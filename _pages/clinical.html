@@ -5,32 +5,124 @@ permalink: /clinical/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Clinical</title>
+  <style>
+    body {
+      max-width: 850px;
+      margin: 0 auto;
+      padding: 48px 24px;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #222;
+    }
+    h1 { margin-bottom: 0.5em; }
+    h2 { margin-top: 2em; }
+    h3 { margin-top: 1.5em; }
+    hr { margin: 40px 0; }
+    ul { padding-left: 20px; }
+  </style>
+</head>
+<body>
 
-{% include base_path %}
+<h1>Clinical</h1>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p><em>I am a paediatric trainee with a strong interest in global child health, infectious diseases, and improving care for vulnerable populations. My clinical work is closely integrated with my research, with a particular focus on equity, holistic care, and service development.</em></p>
 
+<hr>
+
+<h2>Current Role</h2>
+
+<p>
+<strong>Academic Foundation Doctor</strong><br>
+Oxford University Hospitals NHS Foundation Trust (2024–2026)
+</p>
+
+<h3>Foundation Year 1 (FY1)</h3>
+<ul>
+  <li><strong>Hospitals:</strong> Royal Berkshire Hospital; Prospect Park Hospital</li>
+  <li><strong>Specialties:</strong> Psychiatry; Care of the Elderly with Acute Medicine; General Surgery</li>
+</ul>
+
+<h3>Foundation Year 2 (FY2)</h3>
+<ul>
+  <li><strong>Hospitals:</strong> John Radcliffe Hospital; Horton General Hospital</li>
+  <li><strong>Specialties:</strong> Acute General Medicine; Paediatrics; Research</li>
+</ul>
+
+<ul>
+  <li>Integrated academic and clinical training programme</li>
+  <li>Broad clinical exposure across acute care, psychiatry, surgery, and paediatrics</li>
+  <li>Ongoing involvement in research, quality improvement, and medical education</li>
+</ul>
+
+<hr>
+
+<h2>Undergraduate Clinical Training</h2>
+
+<p><strong>Imperial College School of Medicine</strong></p>
+
+<ul>
+  <li><strong>Imperial College Healthcare NHS Trust:</strong> St Mary’s Hospital; Charing Cross Hospital; Hammersmith Hospital</li>
+  <li>Chelsea and Westminster Hospital NHS Foundation Trust: Chelsea and Westminster Hospital; West Middlesex University Hospital</li>
+  <li>London North West University Healthcare NHS Trust: Northwick Park Hospital</li>
+  <li>The Hillingdon Hospitals NHS Foundation Trust: Hillingdon Hospital</li>
+</ul>
+
+<hr>
+
+<h2>Clinical Interests</h2>
+<ul>
+  <li>Paediatric infectious diseases</li>
+  <li>Global child health</li>
+  <li>Health inequalities and vulnerable populations</li>
+  <li>Adolescent health</li>
+  <li>Medical education and training</li>
+</ul>
+
+<hr>
+
+<h2>Selected Clinical Experience</h2>
+
+<h3>Unaccompanied Asylum-Seeking Children (UASC) – UNITY Clinic</h3>
+<ul>
+  <li>Led audit and evaluation of an infectious disease screening clinic at St Mary’s Hospital</li>
+  <li>Identified key infectious disease burden and gaps in care delivery</li>
+  <li>Contributed to service expansion integrating mental health assessment and holistic support</li>
+  <li>Ongoing work evaluating the Refugee Health Screener (RHS-13) in clinical practice</li>
+</ul>
+
+<h3>Global Health Clinical Experience</h3>
+<ul>
+  <li>Final clinical placement at Groote Schuur Hospital and Red Cross Children’s Hospital, Cape Town</li>
+  <li>Experience in paediatric intensive care, renal medicine, infectious diseases, and HIV care</li>
+</ul>
+
+<hr>
+
+<h2>Quality Improvement &amp; Service Development</h2>
+<ul>
+  <li>Implementation of RHS-13 mental health screening in UASC populations</li>
+  <li>Audit of Trial Without Catheter (TWOC) planning in elderly care</li>
+  <li>Simulation-based teaching to improve junior doctor competence in catheterisation</li>
+  <li>Service evaluation and redesign of UASC clinic integrating infection and mental health care</li>
+</ul>
+
+<hr>
+
+<h2>Clinical Teaching</h2>
+<ul>
+  <li>Associate Teaching Fellow – bedside teaching for medical students (University of Oxford)</li>
+  <li>Regular teaching of medical students and foundation doctors</li>
+  <li>Design and delivery of structured teaching programmes and simulation sessions</li>
+  <li>Focus on interactive, case-based, and learner-centred teaching</li>
+</ul>
+
+</body>
+</html>
 
 
