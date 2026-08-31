@@ -9,56 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+*This page is a curated summary. See [Clinical](/clinical/), [Research](/research/), [Teaching](/teaching/), and [Grants & Awards](/awards/) for more detail, or my [ORCID](https://orcid.org/0000-0001-5852-4841) and [Google Scholar](https://scholar.google.co.uk/citations?user=m92e1rIAAAAJ&hl=en&oi=ao) profiles for the full publication record.*
+
 Education
 ======
-* FHEA, Advance HE, 2025
-* MBBS, Imperial College London, 2024
-* iBSc in Medical Sciences with Global Health, Imperial College London, 2022
+* MSc, Global Health with Epidemiology, University of Oxford — Rhodes Scholar, 2026–present
+* Fellow of the Higher Education Academy (FHEA), Advance HE, 2025
+* MBBS, Imperial College London — Pass with Distinction, 2024
+* iBSc in Global Health, Imperial College London — First Class Honours, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Academic Resident Doctor**, Oxford University Hospitals NHS Foundation Trust, Aug 2024 – Aug 2026
+  * Foundation training across acute medicine, paediatrics, psychiatry, surgery, and care of the elderly, integrated with ongoing research and teaching
+* **Honorary Clinical Research Associate**, Imperial College London, Jan – Dec 2025
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Selected grants & scholarships
+======
+* Rhodes Scholarship, 2025
+* NIHR Patient and Public Involvement and Engagement (PPIE) Grant, 2026 — participatory project with young people on their school experiences, with the charity AT The Bus, Department of Psychiatry, University of Oxford
+* Wellcome Trust Photography Prize — supporting Eh!woza (Cape Town) to explore local health issues through photography
+* University of Oxford grant — Global Health Imagery Ethics Project
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Full list on the [Grants & Awards](/awards/) page.*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Co-lead researcher**, Global Health Imagery Ethics Project (Imperial College London / University of Cape Town / Eh!woza), 2021–present
+* **Research Hub Chair**, Make a Medic (charity), 2022–present
+* **Member, Advocacy Group**, International Child Health Group, 2022–present — leads the CYPSAR (Children and Young People Seeking Asylum and Refuge) workstream: designed a national workshop on care of refugee and asylum-seeking young people in the UK (entitlement to care, barriers to care, role of health professionals; first delivered in York, Nov 2025) and organised a multidisciplinary roundtable with clinicians, social workers, and charity partners
+* **Medical Student/Intern**, UNITY Clinic — infectious disease and mental health clinic for unaccompanied asylum-seeking children, London, 2021–present
