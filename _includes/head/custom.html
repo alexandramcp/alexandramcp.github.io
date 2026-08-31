@@ -14,4 +14,23 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Fix: sidebar overlapping page content on wide screens.
+     The theme makes .sidebar `position: fixed` at >=1024px, which takes it out
+     of the normal layout flow while the main content column's width/margin is
+     still calculated as if the sidebar were floated next to it in-flow. Some
+     pages then render the main content overlapping the sidebar. Reverting the
+     sidebar to its normal (non-fixed) flow at that breakpoint removes the
+     "sticky while scrolling" effect on wide screens but keeps content from
+     overlapping it, which is what actually matters. -->
+<style>
+  @media screen and (min-width: 1024px) {
+    .sidebar {
+      position: static !important;
+      height: auto !important;
+      overflow-y: visible !important;
+      padding-top: 0 !important;
+    }
+  }
+</style>
+
 <!-- end custom head snippets -->
