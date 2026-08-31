@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a medical doctor and 2026 Rhodes Scholar, currently working as an Academic Resident Doctor at Oxford University Hospitals NHS Foundation Trust. I trained in Medicine (MBBS) at Imperial College London, graduating with Distinction, and I'm about to begin an MSc in Global Health with Epidemiology at the University of Oxford (Brasenose College).
+I'm a medical doctor and researcher, and Global Rhodes Scholar (2026). I trained in Medicine (MBBS) at Imperial College London (2018-2024), graduating with Distinction, and completed the Academic Foundation Programme at Oxford (2024). I'm about to begin an MSc in Global Health with Epidemiology at the University of Oxford (Brasenose College).
 
 My work spans clinical medicine, research, and medical education, with a consistent focus on global child health, infectious diseases, and the health of refugee, migrant, and asylum-seeking children and young people. I led the first audit of infectious disease care at the UNITY Clinic for unaccompanied asylum-seeking children in London, work that grew into a model where every young person gets a mental health assessment alongside their physical health check from their first contact with the clinic. I'm also currently running an NIHR-funded participatory project through Oxford's Department of Psychiatry, using creative methods with the charity AT The Bus to help young people reflect on their experiences at school.
 
