@@ -35,7 +35,6 @@ Selected grants & scholarships
 
 Service and leadership
 ======
-* **Co-lead researcher**, Global Health Imagery Ethics Project (Imperial College London / University of Cape Town / Eh!woza), 2021–present
 * **Research Hub Chair**, Make a Medic (charity), 2022–present
-* **Member, Advocacy Group**, International Child Health Group, 2022–present — leads the CYPSAR (Children and Young People Seeking Asylum and Refuge) workstream: designed a national workshop on care of refugee and asylum-seeking young people in the UK (entitlement to care, barriers to care, role of health professionals; first delivered in York, Nov 2025) and organised a multidisciplinary roundtable with clinicians, social workers, and charity partners
-* **Medical Student/Intern**, UNITY Clinic — infectious disease and mental health clinic for unaccompanied asylum-seeking children, London, 2021–present
+* **Member, Advocacy Group**, International Child Health Group, 2022–present: designed a national workshop on care of refugee and asylum-seeking young people in the UK (entitlement to care, barriers to care, role of health professionals; first delivered in York, Nov 2025) and helped organise a multidisciplinary roundtable with clinicians, social workers, and charity partners
+* **Medical Student/Intern**, UNITY Clinic — infectious disease and mental health clinic for unaccompanied asylum-seeking children, London, 2021–2024
